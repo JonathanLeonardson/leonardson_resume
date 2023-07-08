@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jonathan Leonarsdon's Resume
 ---
-# Brigham Young
+# Jonathan Leonardson
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
