@@ -3,7 +3,6 @@ layout: cv
 title: Jonathan Leonarsdon's Resume
 ---
 # Jonathan Leonardson
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -20,7 +19,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 opportunities to expand skills and advance my passion for CyberSecurity. Driven to help other people and develop a Cyber safe
 world
 
-## Networking
+## Experiences
 `August 2022 - May 2023`
 __Ridgewave Wireless LLC | Dillon, MT Networking Intern__
 
@@ -48,15 +47,14 @@ provide optimal support to individuals in distress.
 violations.
 - Participated in monthly training courses to stay up-to-date in water rescue
 techniques
-### Interests
 
+## Interests
 - Snowboarding
 - Tennis
 - Poetry
 - Learning
 
-### Skills
-
+## Skills
 - Strong Work Ethic
 - Computer Skills
 - Reliable & Trustworthy: Eagle Scout Recipient
