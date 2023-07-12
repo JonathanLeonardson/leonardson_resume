@@ -14,71 +14,58 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+## Summery  
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+- Highly-motivated with a desire to take on new challenges. Strong work ethic and quick at mastering new skills. Seeking
+opportunities to expand skills and advance my passion for CyberSecurity. Driven to help other people and develop a Cyber safe
+world
 
-- Full academic scholarship with 4.0 GPA
+## Networking
+`August 2022 - May 2023`
+__Ridgewave Wireless LLC | Dillon, MT Networking Intern__
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+- Installed wiring, cabling and devices to establish, repair and improve network
+operations.
+- Evaluated local area network (LAN) and wide area network (WAN) performance
+data to verify availability and speed, identifying network problems.
+- Promoted high customer satisfaction by resolving problems with knowledgeable
+and friendly service.
 
-- 4.0 Major GPA
+`February 2022 - August 2022`
+__AGM Log Home Maintenance & Restoration | Rexburg, ID Contract Laborer 02/2022 - 08/2022__
 
+- Maintained log cabins
+- Inspected sites before and after construction projects.
+- Monitored job sites to analyze problems and recommend and implement
+solutions.
 
-## Related Experience
+`August 2020 - August 2021`
+__YMCA | Dillon, MT Lead Lifeguard__
+- Maintained strong proficiency in CPR, First Aid and rescue techniques to
+provide optimal support to individuals in distress.
+- Patrolled to identify anyone needing assistance and offered immediate care.
+- Monitored behaviors for safety violations and took steps to prevent further
+violations.
+- Participated in monthly training courses to stay up-to-date in water rescue
+techniques
+### Interests
 
-### Internships
+- Snowboarding
+- Tennis
+- Poetry
+- Learning
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### Skills
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Strong Work Ethic
+- Computer Skills
+- Reliable & Trustworthy: Eagle Scout Recipient
+- Basics Python/SQL
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Florida Tallahasse
 
 
 
